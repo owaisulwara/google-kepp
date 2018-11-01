@@ -1,0 +1,8 @@
+E:\Webdevelopment\Google Keep\Google Keep\bin\Debug\Google Keep.exe.config
+E:\Webdevelopment\Google Keep\Google Keep\bin\Debug\Google Keep.exe
+E:\Webdevelopment\Google Keep\Google Keep\bin\Debug\Google Keep.pdb
+E:\Webdevelopment\Google Keep\Google Keep\obj\Debug\Google_Keep.Form1.resources
+E:\Webdevelopment\Google Keep\Google Keep\obj\Debug\Google_Keep.Properties.Resources.resources
+E:\Webdevelopment\Google Keep\Google Keep\obj\Debug\Google Keep.csproj.GenerateResource.Cache
+E:\Webdevelopment\Google Keep\Google Keep\obj\Debug\Google Keep.exe
+E:\Webdevelopment\Google Keep\Google Keep\obj\Debug\Google Keep.pdb
